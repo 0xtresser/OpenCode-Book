@@ -3,6 +3,7 @@
 > **模型**: claude-opus-4-6 (anthropic/claude-opus-4-6)  
 > **工具**: OpenCode
 > **生成日期**: 2025-02-17
+> **GitHub**: https://github.com/0xtresser/OpenCode-Book
 
 ---
 
